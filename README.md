@@ -18,4 +18,4 @@ You get notified if you have cache hit, or he is writing to cache.
 Azure can give you nice statistics on cache hits and misses.
 See screenshot:
 
-
+![azure metrics](azuremetrics.png "Azure metrics")
